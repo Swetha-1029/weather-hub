@@ -33,18 +33,5 @@ A real-time weather application built with React.js that fetches live weather da
 - OpenWeatherMap API (free)
 - Fetch API
 
-## Project Structure
-
-```
-src/
-├── hooks/
-│   └── useWeather.js          ← fetches weather + forecast from API
-├── components/
-│   ├── SearchBar.jsx           ← city search input + popular chips
-│   ├── WeatherCard.jsx         ← current weather display
-│   ├── ForecastCard.jsx        ← 5-day forecast list
-│   └── ErrorMessage.jsx        ← error display
-├── App.jsx                     ← root component
-├── main.jsx                    ← Vite entry point
-└── index.css                   ← global styles + CSS variables
+ss                   ← global styles + CSS variables
 ```
