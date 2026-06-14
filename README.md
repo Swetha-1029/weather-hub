@@ -33,5 +33,4 @@ A real-time weather application built with React.js that fetches live weather da
 - OpenWeatherMap API (free)
 - Fetch API
 
-ss                   ← global styles + CSS variables
-```
+
