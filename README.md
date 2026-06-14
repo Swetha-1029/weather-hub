@@ -1,9 +1,10 @@
 # React Weather Hub
 
-**Intern ID:** [YOUR INTERN ID]
-**Full Name:** [YOUR FULL NAME]
-**No. of Weeks:** [NUMBER OF WEEKS]
+**Intern ID:** CITS3094
+**Full Name:** Swetha C
+**No. of Weeks:** 4 weeks
 **Project Name:** React Weather Hub
+**Domain:** React.js web development
 
 ---
 
@@ -31,30 +32,6 @@ A real-time weather application built with React.js that fetches live weather da
 - CSS Modules
 - OpenWeatherMap API (free)
 - Fetch API
-
-## Getting Started
-
-### 1. Get a free API key
-- Go to [https://openweathermap.org/api](https://openweathermap.org/api)
-- Sign up for free
-- Copy your API key
-
-### 2. Set up environment variable
-- Create a `.env` file in the root folder
-- Add this line:
-```
-VITE_WEATHER_API_KEY=your_api_key_here
-```
-
-### 3. Run the app
-```bash
-npm install
-npm run dev
-```
-
-Opens at http://localhost:5173
-
-> Note: New API keys take up to 2 hours to activate after signup.
 
 ## Project Structure
 
