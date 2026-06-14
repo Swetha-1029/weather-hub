@@ -1,10 +1,10 @@
 # React Weather Hub
 
--**Intern ID:** CITS3094
--**Full Name:** Swetha C
--**No. of Weeks:** 4 weeks
--**Project Name:** React Weather Hub
--**Domain:** React.js web development
+- **Intern ID:** CITS3094
+- **Full Name:** Swetha C
+- **No. of Weeks:** 4 weeks
+- **Project Name:** React Weather Hub
+- **Domain:** React.js web development
 
 ---
 
